@@ -13,7 +13,7 @@ Table of Contents
 
 I decided to follow an online course provided by coursera to learn new concepts and work on projects.
 
-This mooc is about data science and is divided in 9 course. 
+This mooc is about data science and is divided in 9 course. [Here](https://www.coursera.org/professional-certificates/ibm-data-science#courses) tou have more info about it. 
 
 I put here the bages and certifications I got, and as well the projects I did related to data science.
 
