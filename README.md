@@ -9,9 +9,18 @@ Table of Contents
   * [ 🎯 Objectives](#dockerfilevim)
   * [ 🏆 Courses and certifications obtained](#screenshot)
 
-## Introduction
+## 🐣 Introduction
 
-## Courses and certifications obtained
+I decided to follow an online course provided by coursera to learn new concepts and work on projects.
+
+This mooc is about data science and is divided in 9 course. 
+
+I put here the bages and certifications I got, and as well the projects I did related to data science.
+
+## 🎯 Objective
+
+
+## 🏆 Courses and certifications obtained
 
 ### Course 1 : [What is data science](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
 
