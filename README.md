@@ -5,8 +5,8 @@
 Table of Contents
 =================
 
-  * [ 🐣 Introduction](#Introduction)
-  * [ 🏆 Courses and certifications obtained](#Courses%and%certifications%obtained)
+  * [ 🐣 Introduction](#-introduction)
+  * [ 🏆 Courses and certifications obtained](#-courses-and-certifications-obtained)
 
 ## 🐣 Introduction
 
