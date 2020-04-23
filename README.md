@@ -5,19 +5,16 @@
 Table of Contents
 =================
 
-  * [ 🐣 Introduction](#dockerfilevim)
-  * [ 🎯 Objectives](#dockerfilevim)
-  * [ 🏆 Courses and certifications obtained](#screenshot)
+  * [ 🐣 Introduction](#Introduction)
+  * [ 🏆 Courses and certifications obtained](#Courses%and%certifications%obtained)
 
 ## 🐣 Introduction
 
 I decided to follow an online course provided by coursera to learn new concepts and work on projects.
 
-This mooc is about data science and is divided in 9 course. [Here](https://www.coursera.org/professional-certificates/ibm-data-science#courses) tou have more info about it. 
+This mooc is about data science and is divided in 9 course. [Here](https://www.coursera.org/professional-certificates/ibm-data-science#courses) you have more info about it. 
 
-I put here the bages and certifications I got, and as well the projects I did related to data science.
-
-## 🎯 Objective
+In this repository you can find the badges and certifications I got from this course, and all the projects I made related to them.
 
 
 ## 🏆 Courses and certifications obtained
