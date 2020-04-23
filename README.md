@@ -1,5 +1,7 @@
 # 🎓 Data science certification by coursera
 
+![Coursera](https://www.imt.fr/wp-content/uploads/2015/09/201509_logo-Coursera.jpg)
+
 ## Course 1 : [What is data science](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
 
 ## Course 2 : [Open source tools for data science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science)
