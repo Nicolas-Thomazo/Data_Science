@@ -14,7 +14,11 @@ I decided to follow an online course provided by coursera to learn new concepts 
 
 This mooc is about data science and is divided in 9 course. [Here](https://www.coursera.org/professional-certificates/ibm-data-science#courses) you have more info about it. 
 
+<<<<<<< HEAD
 In this repository you can find the certifications I got from this course, and all the projects I made related to them.
+=======
+In this repository you can find the badges and certifications I got from this course, and all the projects I made related to them.
+>>>>>>> 5c649a6b125a2f56c0e06002cfac54bbcf3c7459
 
 
 ## 🏆 Courses and certifications obtained
@@ -27,8 +31,11 @@ In this repository you can find the certifications I got from this course, and a
 
 ### Course 3 : [Data science methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)
 
+<<<<<<< HEAD
 This course is about the methodology of a data science project. You can find in the folder "" two articles about it.
 
+=======
+>>>>>>> 5c649a6b125a2f56c0e06002cfac54bbcf3c7459
 ### Course 4 : [Python for applied data science](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)
 
 ### Course 5 : [Sql in data sicence](https://www.coursera.org/learn/sql-data-science)
@@ -39,4 +46,8 @@ This course is about the methodology of a data science project. You can find in 
 
 ### Course 8 : [Machine learning with python](https://www.coursera.org/learn/machine-learning-with-python)
 
+<<<<<<< HEAD
 ### Course  : [Applied data science capstone](https://www.coursera.org/learn/applied-data-science-capstone)
+=======
+### Course  : [Applied data science capstone](https://www.coursera.org/learn/applied-data-science-capstone)
+>>>>>>> 5c649a6b125a2f56c0e06002cfac54bbcf3c7459
