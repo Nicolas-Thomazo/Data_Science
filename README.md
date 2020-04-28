@@ -36,11 +36,13 @@ In this repository you can find the badges and certifications I got from this co
 * [Badge](https://www.youracclaim.com/org/ibm/badge/data-science-methodology)
 * [Certificate](https://www.coursera.org/account/accomplishments/records/WUHQRQWVLXBG)
 * This course is about the methodology of a data science project. You can find in the folder **3.Methodology** two articles about it.
+* [notebook](https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/708ea9ce-6e02-4a8f-bacd-f18ad95ceafb/view?access_token=fe5c16088e80857d162919b5de19b7c49438880a4bbcad03c65ba67fc95c69b8)
 
 ### Course 4 : [Python for applied data science](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)
 
-* [Badge]()
-* [Certificate]()
+* [Badge](https://www.youracclaim.com/org/ibm/badge/python-for-data-science-and-ai)
+* [Certificate](https://www.coursera.org/account/accomplishments/records/WW542U8XL2ZB)
+* This course learn the basics of python and some librairies such as pandas or numpy
 
 ### Course 5 : [Sql in data sicence](https://www.coursera.org/learn/sql-data-science)
 
