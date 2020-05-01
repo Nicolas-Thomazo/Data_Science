@@ -40,14 +40,20 @@ In this repository you can find the badges and certifications I got from this co
 
 ### Course 4 : [Python for applied data science](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)
 
+This course teaches the use of python and more specifically librairies such as pandas or numpy
+
 * [Badge](https://www.youracclaim.com/org/ibm/badge/python-for-data-science-and-ai)
 * [Certificate](https://www.coursera.org/account/accomplishments/records/WW542U8XL2ZB)
-* This course learn the basics of python and some librairies such as pandas or numpy
 
 ### Course 5 : [Sql in data sicence](https://www.coursera.org/learn/sql-data-science)
+  
+* In this course I learn how to
+  * create, acces a database in a cloud
+  * query a database in sql
+  * use python and sql to query a database
 
-* [Badge]()
-* [Certificate]()
+* [Badge](https://www.youracclaim.com/org/ibm/badge/databases-and-sql-for-data-science)
+* [Certificate](https://www.coursera.org/account/accomplishments/records/GXJJTU3JQ68J)
 
 ### Course 6 : [Data analysis with python](https://www.coursera.org/learn/data-analysis-with-python)
 
