@@ -33,11 +33,11 @@ In this repository you can find the badges and certifications I got from this co
 
 ### Course 3 : [Data science methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)
 
-I add a folder **3.Methodology** with two articles about it. The first one describe the methodoly and the second one is a study of case with the application of the methodology.
+I add a folder `3.Methodology` with two articles about it. The first one describe the methodoly and the second one is a study of case with the application of the methodology.
 
 * In this course I learn
     - methodology of a data science project
-    - working with data (cleaning, importing, manipulation)
+    - major steps involved in tackling a data science problem
 * [Badge](https://www.youracclaim.com/org/ibm/badge/data-science-methodology)
 * [Certificate](https://www.coursera.org/account/accomplishments/records/WUHQRQWVLXBG)
 * 
@@ -45,7 +45,7 @@ I add a folder **3.Methodology** with two articles about it. The first one descr
 
 ### Course 4 : [Python for applied data science](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)
 
-I add a folder  **4.Python** where you can find a jupyter notebook with 
+I add a folder  `4.Python` where you can find a jupyter notebook with 
 
 
 *  In this course I learn
@@ -56,7 +56,7 @@ I add a folder  **4.Python** where you can find a jupyter notebook with
 
 ### Course 5 : [Sql in data sicence](https://www.coursera.org/learn/sql-data-science)
 
-I add a folder  **5.SQL** where you can find a jupyter notebook with a the use of sql python to query from 3 datasets
+I add a folder  `5.SQL` where you can find a jupyter notebook where I use sql and python to query from 3 datasets
 
 * In this course I learn how to
   - create, acces a database in a cloud
@@ -67,6 +67,12 @@ I add a folder  **5.SQL** where you can find a jupyter notebook with a the use o
 
 ### Course 6 : [Data analysis with python](https://www.coursera.org/learn/data-analysis-with-python)
 
+I add a folder  `6.Data_Analysis` where you can find a jupyter notebook where I analyse a dataset to predict housing prices. I also add a pdf documents where I describe the concepts I learn about data analysis. I explain the different steps, librairies and functions to use.
+
+* In this course I learn how to
+  - Cleaning the Data
+  - Building machine learning Regression models
+  - Building data pipelines
 * [Badge]()
 * [Certificate]()
 
