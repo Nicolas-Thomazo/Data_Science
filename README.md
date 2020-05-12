@@ -76,8 +76,14 @@ I add a folder  `6.Data_Analysis` where you can find a jupyter notebook where I 
 
 ### Course 7 : [Python for data visualization](https://www.coursera.org/learn/python-for-data-visualization)
 
-* [Badge]()
-* [Certificate]()
+I add a folder `7.Data_visualization` where you can find two jupyter notebooks. In the first one I use all the tools of data visualization that I learn such as bar charts, boxplots but also maps and waffle charts. In the other you can find a small application of these tools.
+
+* In this course I learn how to
+  - Basics data visualization tools (Scatter Plot, Box Plot, Bar Chart, Histogram)
+  - Advanced Visualizations (waffle charts, word clouds, maps)
+  - Geospatial Data (Folium to create maps and choropleth maps)
+* [Badge](https://www.youracclaim.com/org/ibm/badge/data-visualization-with-python)
+* [Certificate](https://www.coursera.org/account/accomplishments/records/Y8HGMA5C9B2F)
 
 ### Course 8 : [Machine learning with python](https://www.coursera.org/learn/machine-learning-with-python)
 
