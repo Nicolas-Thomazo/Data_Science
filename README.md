@@ -68,9 +68,9 @@ I add a folder  `5.SQL` where you can find a jupyter notebook where I use sql an
 I add a folder  `6.Data_Analysis` where you can find a jupyter notebook where I analyse a dataset to predict housing prices. I also add a pdf documents where I describe the concepts I learn about data analysis. I explain the different steps, librairies and functions to use.
 
 * In this course I learn how to
-  - Cleaning the Data
-  - Building machine learning Regression models
-  - Building data pipelines
+  - Clean the Data
+  - Build machine learning Regression models
+  - Build data pipelines
 * [Badge](https://www.youracclaim.com/org/ibm/badge/data-analysis-with-python)
 * [Certificate](https://www.coursera.org/account/accomplishments/records/895NUFKED5QW)
 
@@ -78,7 +78,7 @@ I add a folder  `6.Data_Analysis` where you can find a jupyter notebook where I 
 
 I add a folder `7.Data_visualization` where you can find two jupyter notebooks. In the first one I use all the tools of data visualization that I learn such as bar charts, boxplots but also maps and waffle charts. In the other you can find a small application of these tools.
 
-* In this course I learn how to
+* In this course I learn 
   - Basics data visualization tools (Scatter Plot, Box Plot, Bar Chart, Histogram)
   - Advanced Visualizations (waffle charts, word clouds, maps)
   - Geospatial Data (Folium to create maps and choropleth maps)
